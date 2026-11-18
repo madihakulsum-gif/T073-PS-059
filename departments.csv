@@ -1,0 +1,6 @@
+department_id,department_name,head_employee_id
+DEP-SAL,Sales,EMP-001
+DEP-ENG,Engineering,EMP-002
+DEP-OPS,Operations,EMP-003
+DEP-FIN,Finance,EMP-004
+DEP-HRA,HR & Admin,EMP-005

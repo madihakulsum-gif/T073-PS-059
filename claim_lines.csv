@@ -1,0 +1,297 @@
+line_id,trip_id,expense_date,category,amount,receipt,payment_proof,gst_invoice_no,breakfast_included,km,travel_class,description
+LN-0001,TRP-001,2026-09-03,AIRFARE,10940.00,true,true,,,,,Onward flight
+LN-0002,TRP-001,2026-09-03,LODGING,3850.00,true,false,27FCHT9109/663,true,,,Hotel night
+LN-0003,TRP-001,2026-09-03,TAXI,486.00,true,false,,,27,,Local taxi
+LN-0004,TRP-001,2026-09-04,LODGING,2975.00,true,false,29GBHT9159/744,false,,,Hotel night
+LN-0005,TRP-001,2026-09-04,TAXI,767.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0006,TRP-001,2026-09-05,LODGING,2100.00,true,false,07FBHT1344/765,false,,,Hotel night
+LN-0007,TRP-001,2026-09-05,TAXI,1101.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0008,TRP-001,2026-09-06,AIRFARE,11715.00,true,true,,,,,Return flight
+LN-0009,TRP-001,2026-09-06,TAXI,288.00,true,false,,,18,,Local taxi
+LN-0010,TRP-002,2026-09-02,AIRFARE,7149.00,true,false,,,,,Onward flight
+LN-0011,TRP-002,2026-09-02,LODGING,2450.00,true,false,36CEHT9650/633,false,,,Hotel night
+LN-0012,TRP-002,2026-09-02,TAXI,926.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0013,TRP-002,2026-09-03,LODGING,2450.00,true,false,36DAHT8599/346,true,,,Hotel night
+LN-0014,TRP-002,2026-09-03,TAXI,584.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0015,TRP-002,2026-09-04,LODGING,3850.00,true,false,36CDHT5434/894,false,,,Hotel night
+LN-0016,TRP-002,2026-09-04,TAXI,749.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0017,TRP-002,2026-09-05,LODGING,2975.00,true,false,36FFHT7422/645,true,,,Hotel night
+LN-0018,TRP-002,2026-09-06,LODGING,2975.00,true,false,36CCHT3150/916,true,,,Hotel night
+LN-0019,TRP-002,2026-09-06,TAXI,1264.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0020,TRP-002,2026-09-07,LODGING,2450.00,true,false,07ECHT3280/373,false,,,Hotel night
+LN-0021,TRP-002,2026-09-07,TAXI,450.00,true,false,,,25,,Local taxi
+LN-0022,TRP-002,2026-09-08,LODGING,2975.00,true,false,33CCHT1878/869,true,,,Hotel night
+LN-0023,TRP-002,2026-09-08,TAXI,1642.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0024,TRP-002,2026-09-09,LODGING,2975.00,true,false,33HAHT5925/326,false,,,Hotel night
+LN-0025,TRP-002,2026-09-10,LODGING,2100.00,true,false,29HGHT3539/432,true,,,Hotel night
+LN-0026,TRP-002,2026-09-10,TAXI,1124.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0027,TRP-002,2026-09-11,LODGING,2100.00,true,false,29HAHT1953/196,false,,,Hotel night
+LN-0028,TRP-002,2026-09-11,MEALS,426.00,true,false,,,,,Client dinner
+LN-0029,TRP-002,2026-09-12,AIRFARE,6620.00,true,false,,,,,Return flight
+LN-0030,TRP-002,2026-09-12,MEALS,398.00,true,false,,,,,Client dinner
+LN-0031,TRP-002,2026-09-12,TAXI,1311.00,true,false,,,69,,Local taxi
+LN-0032,TRP-003,2026-09-08,AIRFARE,10111.00,true,true,,,,,Onward flight
+LN-0033,TRP-003,2026-09-08,LODGING,5100.00,true,false,36BBHT1611/228,false,,,Hotel night
+LN-0034,TRP-003,2026-09-08,TAXI,608.00,true,false,,,38,,Local taxi
+LN-0035,TRP-003,2026-09-09,LODGING,3600.00,true,false,07AGHT3069/464,false,,,Hotel night
+LN-0036,TRP-003,2026-09-10,AIRFARE,9441.00,true,false,,,,,Return flight
+LN-0037,TRP-003,2026-09-10,TAXI,1083.00,true,false,,,57,,Local taxi
+LN-0038,TRP-004,2026-09-04,AIRFARE,8467.00,true,false,,,,,Onward flight
+LN-0039,TRP-004,2026-09-04,LODGING,6000.00,true,false,33AEHT3001/420,true,,,Hotel night
+LN-0040,TRP-004,2026-09-04,MEALS,292.00,true,false,,,,,Client dinner
+LN-0041,TRP-004,2026-09-04,TAXI,1222.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0042,TRP-004,2026-09-05,LODGING,11000.00,true,true,36ABHT4822/336,true,,,Hotel night
+LN-0043,TRP-004,2026-09-05,TAXI,874.00,true,false,,,46,,Local taxi
+LN-0044,TRP-004,2026-09-06,LODGING,9500.00,true,false,27GFHT8161/846,true,,,Hotel night
+LN-0045,TRP-004,2026-09-07,LODGING,11000.00,true,true,36CHHT7486/811,true,,,Hotel night
+LN-0046,TRP-004,2026-09-08,LODGING,6000.00,true,false,27BGHT2789/279,true,,,Hotel night
+LN-0047,TRP-004,2026-09-08,TAXI,1159.00,true,false,,,61,,Local taxi
+LN-0048,TRP-004,2026-09-09,AIRFARE,8771.00,true,false,,,,,Return flight
+LN-0049,TRP-004,2026-09-09,MEALS,456.00,true,false,,,,,Client dinner
+LN-0050,TRP-005,2026-09-03,AIRFARE,4593.00,true,false,,,,,Onward flight
+LN-0051,TRP-005,2026-09-03,LODGING,6050.00,true,false,07DDHT4331/621,false,,,Hotel night
+LN-0052,TRP-005,2026-09-04,LODGING,3300.00,true,false,27GHHT8612/211,true,,,Hotel night
+LN-0053,TRP-005,2026-09-05,LAUNDRY,182.00,false,false,,,,,Hotel laundry
+LN-0054,TRP-005,2026-09-05,LODGING,3300.00,true,false,36GEHT5171/393,false,,,Hotel night
+LN-0055,TRP-005,2026-09-05,TAXI,608.00,true,false,,,38,,Local taxi
+LN-0056,TRP-005,2026-09-06,AIRFARE,4384.00,true,false,,,,,Return flight
+LN-0057,TRP-006,2026-09-14,AIRFARE,11567.00,true,true,,,,,Onward flight
+LN-0058,TRP-006,2026-09-14,LODGING,1500.00,true,false,29FHHT9445/745,true,,,Hotel night
+LN-0059,TRP-006,2026-09-14,TAXI,714.00,true,false,,,51,,Local taxi
+LN-0060,TRP-006,2026-09-15,LODGING,2125.00,true,false,33AEHT2492/272,true,,,Hotel night
+LN-0061,TRP-006,2026-09-15,MEALS,900.00,true,false,,,,,Client dinner
+LN-0062,TRP-006,2026-09-15,TAXI,1519.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0063,TRP-006,2026-09-16,AIRFARE,11583.00,true,true,,,,,Return flight
+LN-0064,TRP-006,2026-09-16,LODGING,3900.00,true,false,29AGHT7321/669,false,,,Hotel night (extension)
+LN-0065,TRP-006,2026-09-16,TAXI,1414.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0066,TRP-006,2026-09-17,LODGING,3900.00,true,false,29HCHT3811/342,false,,,Hotel night (extension)
+LN-0067,TRP-006,2026-09-18,LODGING,3900.00,true,false,27DFHT7550/385,false,,,Hotel night (extension)
+LN-0068,TRP-007,2026-09-15,TAXI,352.00,true,false,,,22,,Local taxi
+LN-0069,TRP-007,2026-09-15,TRAIN,340.00,true,false,,,,AC-2,Day-return train
+LN-0070,TRP-008,2026-09-14,LODGING,4950.00,true,false,29DFHT2242/520,true,,,Hotel night
+LN-0071,TRP-008,2026-09-14,TAXI,1062.00,true,false,,,59,,Local taxi
+LN-0072,TRP-008,2026-09-14,TRAIN,4978.00,true,false,,,,AC-1,Onward train
+LN-0073,TRP-008,2026-09-15,LODGING,2700.00,true,false,36EFHT7994/978,false,,,Hotel night
+LN-0074,TRP-008,2026-09-16,LODGING,3825.00,true,false,36CGHT5146/134,false,,,Hotel night
+LN-0075,TRP-008,2026-09-16,TAXI,810.00,true,false,,,45,,Local taxi
+LN-0076,TRP-008,2026-09-17,MEALS,452.00,true,false,,,,,Client dinner
+LN-0077,TRP-008,2026-09-17,TAXI,905.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0078,TRP-008,2026-09-17,TRAIN,4978.00,true,false,,,,AC-1,Return train
+LN-0079,TRP-009,2026-09-11,AIRFARE,11160.00,true,true,,,,,Onward flight
+LN-0080,TRP-009,2026-09-11,LODGING,7000.00,true,false,27AAHT6068/270,false,,,Hotel night
+LN-0081,TRP-009,2026-09-11,OTHER,220.00,false,false,,,,,Porter / parking
+LN-0082,TRP-009,2026-09-11,TAXI,323.00,true,false,,,17,,Local taxi
+LN-0083,TRP-009,2026-09-12,AIRFARE,10885.00,true,true,,,,,Return flight
+LN-0084,TRP-009,2026-09-12,TAXI,1024.00,true,false,,,64,,Local taxi
+LN-0085,TRP-010,2026-09-16,AIRFARE,6975.00,true,false,,,,,Onward flight
+LN-0086,TRP-010,2026-09-16,LODGING,7125.00,true,false,29GAHT2726/432,false,,,Hotel night
+LN-0087,TRP-010,2026-09-16,TAXI,308.00,true,false,,,22,,Local taxi
+LN-0088,TRP-010,2026-09-17,LODGING,6375.00,true,false,29GBHT1684/299,true,,,Hotel night
+LN-0089,TRP-010,2026-09-17,MEALS,794.00,true,false,,,,,Client dinner
+LN-0090,TRP-010,2026-09-17,TAXI,798.00,true,false,,,57,,Local taxi
+LN-0091,TRP-010,2026-09-18,AIRFARE,7209.00,true,false,,,,,Return flight
+LN-0092,TRP-011,2026-09-20,AIRFARE,4231.00,true,false,,,,,Onward flight
+LN-0093,TRP-011,2026-09-20,LODGING,7000.00,true,false,29EFHT5701/520,true,,,Hotel night
+LN-0094,TRP-011,2026-09-20,TAXI,770.00,true,false,,,55,,Local taxi
+LN-0095,TRP-011,2026-09-21,LODGING,6000.00,true,false,33FEHT6392/857,true,,,Hotel night
+LN-0096,TRP-011,2026-09-22,LODGING,7000.00,true,false,33EFHT2888/391,true,,,Hotel night
+LN-0097,TRP-011,2026-09-22,TAXI,1647.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0098,TRP-011,2026-09-23,LAUNDRY,238.00,false,false,,,,,Hotel laundry
+LN-0099,TRP-011,2026-09-23,LODGING,7000.00,true,false,29DDHT2048/918,false,,,Hotel night
+LN-0100,TRP-011,2026-09-24,AIRFARE,5088.00,true,false,,,,,Return flight
+LN-0101,TRP-011,2026-09-24,MEALS,265.00,true,false,,,,,Client dinner
+LN-0102,TRP-012,2026-09-28,LODGING,2900.00,true,false,07DFHT6883/570,false,,,Hotel night
+LN-0103,TRP-012,2026-09-28,MEALS,420.00,true,false,,,,,Dinner on arrival
+LN-0104,TRP-012,2026-09-28,TRAIN,980.00,true,false,,,,AC-2,Onward train
+LN-0105,TRP-012,2026-09-29,LODGING,2900.00,true,false,33HEHT4078/262,false,,,Hotel night
+LN-0106,TRP-012,2026-09-30,LODGING,2900.00,true,false,33CHHT1087/462,false,,,Hotel night
+LN-0107,TRP-012,2026-10-01,TRAIN,980.00,true,false,,,,AC-2,Return train
+LN-0108,TRP-013,2026-09-20,AIRFARE,7914.00,true,false,,,,,Onward flight
+LN-0109,TRP-013,2026-09-20,LODGING,3850.00,true,false,33HCHT1013/394,true,,,Hotel night
+LN-0110,TRP-013,2026-09-20,TAXI,518.00,true,false,,,37,,Local taxi
+LN-0111,TRP-013,2026-09-21,LODGING,2975.00,true,false,33DEHT8569/636,true,,,Hotel night
+LN-0112,TRP-013,2026-09-21,TAXI,589.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0113,TRP-013,2026-09-22,LAUNDRY,250.00,false,false,,,,,Hotel laundry
+LN-0114,TRP-013,2026-09-22,LODGING,2975.00,true,false,07CEHT1508/205,true,,,Hotel night
+LN-0115,TRP-013,2026-09-22,TAXI,306.00,true,false,,,17,,Local taxi
+LN-0116,TRP-013,2026-09-23,AIRFARE,8189.00,true,false,,,,,Return flight
+LN-0117,TRP-013,2026-09-23,TAXI,861.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0118,TRP-014,2026-09-21,AIRFARE,6400.00,true,false,,,,,Onward flight
+LN-0119,TRP-014,2026-09-21,LODGING,4500.00,true,false,07FFHT1921/773,false,,,Hotel night 1
+LN-0120,TRP-014,2026-09-22,LODGING,4501.00,true,false,29DHHT1955/327,false,,,Hotel night 2
+LN-0121,TRP-014,2026-09-23,AIRFARE,6900.00,true,false,,,,,Return flight
+LN-0122,TRP-015,2026-09-28,AIRFARE,7613.00,true,false,,,,,Onward flight
+LN-0123,TRP-015,2026-09-28,LODGING,3825.00,true,false,27HBHT4604/638,true,,,Hotel night
+LN-0124,TRP-015,2026-09-29,LODGING,3150.00,true,false,27EHHT2487/480,true,,,Hotel night
+LN-0125,TRP-015,2026-09-30,AIRFARE,7921.00,true,false,,,,,Return flight
+LN-0126,TRP-015,2026-09-30,TAXI,514.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0127,TRP-016,2026-09-23,AIRFARE,5810.00,true,false,,,,,Onward flight
+LN-0128,TRP-016,2026-09-23,LODGING,4200.00,true,false,27HBHT9391/529,true,,,Hotel night
+LN-0129,TRP-016,2026-09-23,TAXI,406.00,true,false,,,29,,Local taxi
+LN-0130,TRP-016,2026-09-24,LODGING,5700.00,true,false,36BCHT2739/399,false,,,Hotel night
+LN-0131,TRP-016,2026-09-25,LODGING,4200.00,true,false,33HFHT6145/366,false,,,Hotel night
+LN-0132,TRP-016,2026-09-25,MEALS,521.00,true,false,,,,,Client dinner
+LN-0133,TRP-016,2026-09-26,LODGING,4200.00,true,false,33GDHT6403/198,false,,,Hotel night
+LN-0134,TRP-016,2026-09-26,TAXI,1232.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0135,TRP-016,2026-09-27,LODGING,6600.00,true,false,33CFHT8599/300,false,,,Hotel night
+LN-0136,TRP-016,2026-09-27,MEALS,876.00,true,false,,,,,Client dinner
+LN-0137,TRP-016,2026-09-27,TAXI,1572.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0138,TRP-016,2026-09-28,AIRFARE,5916.00,true,false,,,,,Return flight
+LN-0139,TRP-016,2026-09-28,MEALS,790.00,true,false,,,,,Client dinner
+LN-0140,TRP-017,2026-10-02,LODGING,2700.00,true,false,07DHHT2448/215,true,,,Hotel night
+LN-0141,TRP-017,2026-10-02,TAXI,1299.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0142,TRP-017,2026-10-02,TRAIN,3478.00,true,false,,,,AC-1,Onward train
+LN-0143,TRP-017,2026-10-03,LODGING,3150.00,true,false,36HGHT1366/130,true,,,Hotel night
+LN-0144,TRP-017,2026-10-04,LODGING,2700.00,true,false,27CAHT9081/117,true,,,Hotel night
+LN-0145,TRP-017,2026-10-04,TAXI,631.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0146,TRP-017,2026-10-05,LODGING,4950.00,true,false,36CEHT6119/290,false,,,Hotel night
+LN-0147,TRP-017,2026-10-05,MEALS,343.00,true,false,,,,,Client dinner
+LN-0148,TRP-017,2026-10-05,TAXI,800.00,true,false,,,50,,Local taxi
+LN-0149,TRP-017,2026-10-06,LODGING,2700.00,true,false,27AGHT3511/383,false,,,Hotel night
+LN-0150,TRP-017,2026-10-07,TAXI,993.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0151,TRP-017,2026-10-07,TRAIN,3478.00,true,false,,,,AC-1,Return train
+LN-0152,TRP-018,2026-09-30,AIRFARE,5633.00,true,false,,,,,Onward flight
+LN-0153,TRP-018,2026-09-30,LODGING,1500.00,true,false,33DHHT9721/575,false,,,Hotel night
+LN-0154,TRP-018,2026-10-01,LODGING,2750.00,true,false,29EAHT6891/412,true,,,Hotel night
+LN-0155,TRP-018,2026-10-01,MEALS,410.00,true,false,,,,,Client dinner
+LN-0156,TRP-018,2026-10-02,LAUNDRY,407.00,false,false,,,,,Hotel laundry
+LN-0157,TRP-018,2026-10-02,LODGING,2375.00,true,false,33FEHT3495/362,true,,,Hotel night
+LN-0158,TRP-018,2026-10-03,AIRFARE,5175.00,true,false,,,,,Return flight
+LN-0159,TRP-019,2026-10-04,AIRFARE,7969.00,true,false,,,,,Onward flight
+LN-0160,TRP-019,2026-10-04,LODGING,7000.00,true,false,29AHHT6752/276,false,,,Hotel night
+LN-0161,TRP-019,2026-10-05,AIRFARE,8471.00,true,false,,,,,Return flight
+LN-0162,TRP-019,2026-10-05,MEALS,691.00,true,false,,,,,Client dinner
+LN-0163,TRP-019,2026-10-05,TAXI,900.00,true,false,,,50,,Local taxi
+LN-0164,TRP-020,2026-10-05,AIRFARE,8678.00,true,false,,,,,Onward flight
+LN-0165,TRP-020,2026-10-05,LODGING,4275.00,true,false,27BAHT9739/322,false,,,Hotel night
+LN-0166,TRP-020,2026-10-05,MEALS,395.00,true,false,,,,,Client dinner
+LN-0167,TRP-020,2026-10-06,LODGING,2700.00,true,false,29GGHT9830/628,true,,,Hotel night
+LN-0168,TRP-020,2026-10-07,AIRFARE,9275.00,true,false,,,,,Return flight
+LN-0169,TRP-020,2026-10-07,MEALS,549.00,true,false,,,,,Client dinner
+LN-0170,TRP-020,2026-10-07,TAXI,784.00,true,false,,,49,,Local taxi
+LN-0171,TRP-021,2026-10-05,AIRFARE,7662.00,true,false,,,,,Onward flight
+LN-0172,TRP-021,2026-10-05,LODGING,1500.00,true,false,27ACHT6155/652,true,,,Hotel night
+LN-0173,TRP-021,2026-10-05,TAXI,1627.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0174,TRP-021,2026-10-06,LODGING,2125.00,true,false,29BAHT7136/165,false,,,Hotel night
+LN-0175,TRP-021,2026-10-06,MEALS,324.00,true,false,,,,,Client dinner
+LN-0176,TRP-021,2026-10-06,TAXI,1392.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0177,TRP-021,2026-10-07,AIRFARE,7490.00,true,false,,,,,Return flight
+LN-0178,TRP-021,2026-10-07,TAXI,640.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0179,TRP-022,2026-10-11,LODGING,3850.00,true,false,07DAHT6863/962,false,,,Hotel night
+LN-0180,TRP-022,2026-10-11,TAXI,1224.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0181,TRP-022,2026-10-11,TRAIN,1966.00,true,false,,,,AC-2,Onward train
+LN-0182,TRP-022,2026-10-12,LODGING,3850.00,true,false,33AFHT6948/306,false,,,Hotel night
+LN-0183,TRP-022,2026-10-13,TRAIN,1966.00,true,false,,,,AC-2,Return train
+LN-0184,TRP-023,2026-10-12,AIRFARE,4765.00,true,false,,,,,Onward flight
+LN-0185,TRP-023,2026-10-12,LODGING,7000.00,true,false,33EEHT4703/272,false,,,Hotel night
+LN-0186,TRP-023,2026-10-12,MEALS,442.00,true,false,,,,,Client dinner
+LN-0187,TRP-023,2026-10-12,TAXI,1156.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0188,TRP-023,2026-10-13,LODGING,11000.00,true,true,36FFHT9080/512,false,,,Hotel night
+LN-0189,TRP-023,2026-10-13,TAXI,288.00,true,false,,,18,,Local taxi
+LN-0190,TRP-023,2026-10-14,LODGING,8500.00,true,false,27HDHT6710/877,false,,,Hotel night
+LN-0191,TRP-023,2026-10-14,TAXI,800.00,true,false,,,50,,Local taxi
+LN-0192,TRP-023,2026-10-15,LODGING,11000.00,true,true,36GDHT3529/552,true,,,Hotel night
+LN-0193,TRP-023,2026-10-15,MEALS,527.00,true,false,,,,,Client dinner
+LN-0194,TRP-023,2026-10-15,TAXI,720.00,true,false,,,45,,Local taxi
+LN-0195,TRP-023,2026-10-16,LODGING,11000.00,true,true,07FBHT6243/372,false,,,Hotel night
+LN-0196,TRP-023,2026-10-16,MEALS,813.00,true,false,,,,,Client dinner
+LN-0197,TRP-023,2026-10-17,LODGING,9500.00,true,false,27EDHT6435/246,true,,,Hotel night
+LN-0198,TRP-023,2026-10-18,LODGING,9500.00,true,false,07HGHT7544/122,false,,,Hotel night
+LN-0199,TRP-023,2026-10-19,LODGING,11000.00,true,true,07BHHT9952/629,true,,,Hotel night
+LN-0200,TRP-023,2026-10-20,LODGING,11000.00,true,true,07FAHT7549/841,true,,,Hotel night
+LN-0201,TRP-023,2026-10-20,TAXI,922.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0202,TRP-023,2026-10-21,LODGING,7000.00,true,false,07ECHT6472/692,false,,,Hotel night
+LN-0203,TRP-023,2026-10-21,MEALS,742.00,true,false,,,,,Client dinner
+LN-0204,TRP-023,2026-10-21,TAXI,1007.00,true,false,,,53,,Local taxi
+LN-0205,TRP-023,2026-10-22,LODGING,11000.00,true,true,33FAHT1614/875,true,,,Hotel night
+LN-0206,TRP-023,2026-10-23,LODGING,7000.00,true,false,07FAHT4427/909,false,,,Hotel night
+LN-0207,TRP-023,2026-10-24,AIRFARE,5460.00,true,false,,,,,Return flight
+LN-0208,TRP-023,2026-10-24,TAXI,1219.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0209,TRP-024,2026-10-11,AIRFARE,4848.00,true,false,,,,,Onward flight
+LN-0210,TRP-024,2026-10-11,LODGING,5100.00,true,false,27DEHT7656/577,false,,,Hotel night
+LN-0211,TRP-024,2026-10-11,TAXI,1193.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0212,TRP-024,2026-10-12,LODGING,4200.00,true,false,07EBHT1757/382,false,,,Hotel night
+LN-0213,TRP-024,2026-10-12,MEALS,536.00,true,false,,,,,Client dinner
+LN-0214,TRP-024,2026-10-12,TAXI,1257.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0215,TRP-024,2026-10-13,AIRFARE,4890.00,true,false,,,,,Return flight
+LN-0216,TRP-024,2026-10-13,TAXI,1072.00,true,false,,,67,,Local taxi
+LN-0217,TRP-025,2026-10-14,AIRFARE,38624.00,true,true,,,,,Onward flight
+LN-0218,TRP-025,2026-10-14,TAXI,1125.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0219,TRP-025,2026-10-15,TAXI,1546.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0220,TRP-025,2026-10-16,TAXI,728.00,true,false,,,52,,Local taxi
+LN-0221,TRP-025,2026-10-18,TAXI,1344.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0222,TRP-025,2026-10-19,TAXI,1486.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0223,TRP-025,2026-10-20,LAUNDRY,413.00,false,false,,,,,Hotel laundry
+LN-0224,TRP-025,2026-10-21,AIRFARE,38700.00,true,true,,,,,Return flight
+LN-0225,TRP-025,2026-10-21,TAXI,855.00,true,false,,,45,,Local taxi
+LN-0226,TRP-026,2026-10-19,AIRFARE,5200.00,true,false,,,,,Onward flight
+LN-0227,TRP-026,2026-10-19,LODGING,2100.00,true,false,,true,,,Guest house (no GST invoice)
+LN-0228,TRP-026,2026-10-20,LODGING,1950.00,true,false,29ABHT9533/222,true,,,Hotel night
+LN-0229,TRP-026,2026-10-20,OTHER,650.00,false,false,,,,,Printing of training kits
+LN-0230,TRP-026,2026-10-20,TAXI,1800.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0231,TRP-026,2026-10-21,AIRFARE,5600.00,true,false,,,,,Return flight
+LN-0232,TRP-027,2026-10-15,AIRFARE,5591.00,true,false,,,,,Onward flight
+LN-0233,TRP-027,2026-10-15,LODGING,4950.00,true,false,36CHHT7146/751,false,,,Hotel night
+LN-0234,TRP-027,2026-10-15,OTHER,353.00,false,false,,,,,Porter / parking
+LN-0235,TRP-027,2026-10-16,LODGING,3150.00,true,false,36EAHT9418/445,false,,,Hotel night
+LN-0236,TRP-027,2026-10-17,LODGING,4950.00,true,false,27EFHT6746/869,false,,,Hotel night
+LN-0237,TRP-027,2026-10-17,MEALS,470.00,true,false,,,,,Client dinner
+LN-0238,TRP-027,2026-10-17,TAXI,938.00,true,false,,,67,,Local taxi
+LN-0239,TRP-027,2026-10-18,LODGING,2700.00,true,false,27AGHT9612/539,false,,,Hotel night
+LN-0240,TRP-027,2026-10-18,TAXI,1368.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0241,TRP-027,2026-10-19,AIRFARE,6427.00,true,false,,,,,Return flight
+LN-0242,TRP-027,2026-10-19,MEALS,336.00,true,false,,,,,Client dinner
+LN-0243,TRP-027,2026-10-19,TAXI,1165.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0244,TRP-028,2026-10-14,AIRFARE,11361.00,true,true,,,,,Onward flight
+LN-0245,TRP-028,2026-10-14,LODGING,6000.00,true,false,33FCHT3041/188,false,,,Hotel night
+LN-0246,TRP-028,2026-10-14,MEALS,271.00,true,false,,,,,Client dinner
+LN-0247,TRP-028,2026-10-14,OTHER,393.00,false,false,,,,,Porter / parking
+LN-0248,TRP-028,2026-10-15,LODGING,8500.00,true,false,27HHHT2631/663,false,,,Hotel night
+LN-0249,TRP-028,2026-10-16,AIRFARE,12094.00,true,true,,,,,Return flight
+LN-0250,TRP-029,2026-10-23,AIRFARE,7837.00,true,false,,,,,Onward flight
+LN-0251,TRP-029,2026-10-23,LODGING,1750.00,true,false,29DFHT8271/929,true,,,Hotel night
+LN-0252,TRP-029,2026-10-23,TAXI,818.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0253,TRP-029,2026-10-24,LODGING,2750.00,true,false,07HHHT5872/356,false,,,Hotel night
+LN-0254,TRP-029,2026-10-25,LAUNDRY,231.00,false,false,,,,,Hotel laundry
+LN-0255,TRP-029,2026-10-25,LODGING,1500.00,true,false,33HEHT6130/937,true,,,Hotel night
+LN-0256,TRP-029,2026-10-26,AIRFARE,8139.00,true,false,,,,,Return flight
+LN-0257,TRP-030,2026-10-26,LODGING,1750.00,true,false,36HCHT5827/346,false,,,Hotel night
+LN-0258,TRP-030,2026-10-26,MEALS,424.00,true,false,,,,,Client dinner
+LN-0259,TRP-030,2026-10-26,TAXI,1601.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0260,TRP-030,2026-10-26,TRAIN,2395.00,true,false,,,,AC-2,Onward train
+LN-0261,TRP-030,2026-10-27,LODGING,2375.00,true,false,33AFHT9519/270,true,,,Hotel night
+LN-0262,TRP-030,2026-10-27,TAXI,616.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0263,TRP-030,2026-10-28,TAXI,900.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0264,TRP-030,2026-10-28,TRAIN,2395.00,true,false,,,,AC-2,Return train
+LN-0265,TRP-031,2026-10-31,AIRFARE,8749.00,true,false,,,,,Onward flight
+LN-0266,TRP-031,2026-10-31,LODGING,2975.00,true,false,07HAHT6003/255,false,,,Hotel night
+LN-0267,TRP-031,2026-10-31,TAXI,611.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0268,TRP-031,2026-11-01,AIRFARE,8555.00,true,false,,,,,Return flight
+LN-0269,TRP-031,2026-11-01,MEALS,573.00,true,false,,,,,Client dinner
+LN-0270,TRP-031,2026-11-01,TAXI,1248.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0271,TRP-032,2026-10-26,AIRFARE,7364.00,true,false,,,,,Onward flight
+LN-0272,TRP-032,2026-10-26,LODGING,2375.00,true,false,07HAHT6901/523,false,,,Hotel night
+LN-0273,TRP-032,2026-10-26,MEALS,877.00,true,false,,,,,Client dinner
+LN-0274,TRP-032,2026-10-26,TAXI,1273.00,true,false,,,67,,Local taxi
+LN-0275,TRP-032,2026-10-27,LODGING,1750.00,true,false,36AEHT9853/657,true,,,Hotel night
+LN-0276,TRP-032,2026-10-27,TAXI,511.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0277,TRP-032,2026-10-28,LODGING,1750.00,true,false,07GEHT7290/407,false,,,Hotel night
+LN-0278,TRP-032,2026-10-28,TAXI,266.00,true,false,,,19,,Local taxi
+LN-0279,TRP-032,2026-10-29,LAUNDRY,405.00,false,false,,,,,Hotel laundry
+LN-0280,TRP-032,2026-10-29,LODGING,1750.00,true,false,27DAHT2276/334,true,,,Hotel night
+LN-0281,TRP-032,2026-10-29,MEALS,853.00,true,false,,,,,Client dinner
+LN-0282,TRP-032,2026-10-30,AIRFARE,7970.00,true,false,,,,,Return flight
+LN-0283,TRP-033,2026-11-02,AIRFARE,12450.00,true,false,,,,,Onward flight (card statement missing)
+LN-0284,TRP-033,2026-11-02,LODGING,5800.00,true,false,33DGHT4906/626,false,,,Hotel night
+LN-0285,TRP-033,2026-11-03,LODGING,5800.00,true,false,07GAHT9011/355,false,,,Hotel night
+LN-0286,TRP-033,2026-11-04,LODGING,5800.00,true,false,36CHHT4090/887,false,,,Hotel night
+LN-0287,TRP-033,2026-11-05,AIRFARE,9800.00,true,false,,,,,Return flight
+LN-0288,TRP-034,2026-11-03,AIRFARE,3150.00,true,false,,,,,Cancellation charges on booked flight
+LN-0289,TRP-035,2026-11-01,AIRFARE,5255.00,true,false,,,,,Onward flight
+LN-0290,TRP-035,2026-11-01,LODGING,5700.00,true,false,33ACHT7403/195,false,,,Hotel night
+LN-0291,TRP-035,2026-11-02,LODGING,6600.00,true,false,36AAHT2138/156,true,,,Hotel night
+LN-0292,TRP-035,2026-11-02,TAXI,807.00,true,false,,,,,"Taxi (flat, no km)"
+LN-0293,TRP-035,2026-11-03,LODGING,4200.00,true,false,07CAHT1344/601,true,,,Hotel night
+LN-0294,TRP-035,2026-11-03,TAXI,364.00,true,false,,,26,,Local taxi
+LN-0295,TRP-035,2026-11-04,AIRFARE,4899.00,true,false,,,,,Return flight
+LN-0296,TRP-035,2026-11-04,TAXI,855.00,true,false,,,45,,Local taxi
